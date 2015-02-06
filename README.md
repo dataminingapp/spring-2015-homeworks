@@ -5,7 +5,7 @@
 ## Homeworks
 [Homework 0](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-0/Homework-0.ipynb)
 
-[Homework 1](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-1/1.%20Popular%20books.ipynb)
+[Homework 1](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-1/1.Popular-books.ipynb)
 
 
 ## License
