@@ -9,6 +9,8 @@
 
 [Homework 2](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-2/2.Pandas-in-Boston.ipynb)
 
+[Homework 3](http://nbviewer.ipython.org/github/dataminingapp/spring-2015-homeworks/blob/master/homeworks/Homework-3/3.Clustering.ipynb)
+
 ## License
 Copyright (C) 2015 Evimaria Terzi <evimaria@cs.bu.edu>
 
